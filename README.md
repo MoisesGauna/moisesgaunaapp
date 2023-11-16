@@ -62,7 +62,7 @@ Ezequiel Ramirez
 Clone the project
 
 ```bash
-  git clone https://github.com/CarlosSalomon/chars-tecnology-app
+  git clone https://github.com/MoisesGauna/moisesgaunaapp
 ```
 
 Go to the project directory
